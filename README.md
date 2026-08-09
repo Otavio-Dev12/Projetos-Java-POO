@@ -10,9 +10,11 @@
 
 ### Conta bancaria = O sistema bancario simula funções como: Conta do cliente, Conta corrente, Conta poupança, e com as taxas tributavel, e podendo fazer sagues, depositos. Conceito apicados:  Herança, classe abstrata, interface, polimorfismo e tratamento de exeções.
 
+### Sistema de Canais de Notificação = O sistema  de Canais  de notificação simula a função como: Uma simulçaão de mensagens enviadas por (SMS, E-MAIL E PUSH) e faz este tipo de simulação de mensagens. Conceitos aplicados: Polimorfismo, Interface, Herança e Tratamento de exeções.  
 ## 🛠️ Tecnologias
 
 - Java
+- POO
 
 ## 📚 Sobre
 
