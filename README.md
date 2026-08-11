@@ -1,22 +1,118 @@
-# Projeto em java POO
+# ☕ Estudos Java
 
-### Sistema de Academia = Sistema de Academia — Simula o gerenciamento de uma academia, permitindo cadastrar alunos e instrutores e montar treinos personalizados vinculando aluno, instrutor e exercícios. Conceitos aplicados: herança, classe abstrata, interface, polimorfismo, tratamento de exceções, LocalDate.
+Repositório criado para registrar minha evolução nos estudos de Java,
+Programação Orientada a Objetos e desenvolvimento Backend.
 
-### Loja Virtual = O Sistema de Loja Virtual simula um Gerenciamento de uma loja verdadeira, Permitindo cadastrar produtos, preços, carrinho de compras, e formas de pagamentos como pix, boletos e cartão de creditos. Conceitos aplicados: Herança, classe abstrata, interface, polimorfismo e tratamento de exeções.
+## 📚 Conteúdos estudados
 
-### Estacionamento = O sistema de estacionamento simula um gerenciamento de um estacionamento, cadastrando vagas, vendo se tem vagas disponiveis para seu carro ou moto, quantas vagas estão ocupadas ou disponiveis. Conceitos aplicados: classe abstrata,  polimorfismo e validasão com if/else.
+- Lógica de programação
+- Variáveis e tipos de dados
+- Operadores e comparações
+- Estruturas condicionais
+- Estruturas de repetição
+- Métodos
+- Arrays
+- ArrayList
+- Collections
+- Programação Orientada a Objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Classes abstratas
+- Interfaces
+- Tratamento de exceções
 
-### E-comerce = O sistema de E-comerce simula um gerenciamento de E-comerce, simula os descontos como: descontos fixos, desconto percentual e o desconto de leve 3 e pague 2, e tambem o produto sem desconto e todos s cadastro dos produtos a quantidade, Conceito aplicado: o padrão do projeto Strategy, interface, polimorfismo e tratamento de exeções.
+## 💻 Projetos
 
-### Conta bancaria = O sistema bancario simula funções como: Conta do cliente, Conta corrente, Conta poupança, e com as taxas tributavel, e podendo fazer sagues, depositos. Conceito apicados:  Herança, classe abstrata, interface, polimorfismo e tratamento de exeções.
+### 🏦 Conta Bancária
 
-### Sistema de Canais de Notificação = O sistema  de Canais  de notificação simula a função como: Uma simulçaão de mensagens enviadas por (SMS, E-MAIL E PUSH) e faz este tipo de simulação de mensagens. Conceitos aplicados: Polimorfismo, Interface, Herança e Tratamento de exeções.  
+Projeto desenvolvido para praticar:
+
+- Classes e objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Classe abstrata
+- Interface
+- ArrayList
+
+---
+
+### 🛒 E-commerce
+
+Projeto desenvolvido durante os estudos de POO,
+trabalhando com entidades e regras de negócio.
+
+---
+
+### 🛍️ Sistema de Loja Virtual
+
+Projeto desenvolvido para praticar:
+
+- POO
+- Interfaces
+- Herança
+- Polimorfismo
+- Composição
+- Regras de negócio
+
+---
+
+### 🚗 Sistema de Estacionamento
+
+Projeto desenvolvido para praticar Programação
+Orientada a Objetos e gerenciamento de objetos.
+
+---
+
+### 🎓 Sistema de Academia
+
+Projeto desenvolvido durante os estudos de Java e POO.
+
+---
+
+### 🔔 Sistema de Notificações
+
+Projeto desenvolvido para praticar interfaces,
+polimorfismo e diferentes tipos de notificações.
+
+---
+
+### ⚠️ Exercícios de Tratamento de Exceções
+
+Exercícios desenvolvidos para praticar:
+
+- try
+- catch
+- finally
+- throw
+- throws
+- Criação de exceções
+- Validação de dados
+
 ## 🛠️ Tecnologias
 
 - Java
-- POO
+- IntelliJ IDEA
+- Git
+- GitHub
 
-## 📚 Sobre
+## 🎯 Objetivo
 
-Projetos desenvolvidos como parte dos meus estudos para uma vaga de Engenharia de Software, com foco em fundamentos sólidos de Programação Orientada a Objetos.
+Meu objetivo é evoluir como desenvolvedor Java e construir
+uma carreira na área de Backend.
 
+Este repositório registra minha evolução durante os estudos,
+desde os fundamentos da linguagem até projetos mais completos.
+
+## 📈 Próximos estudos
+
+- Maven
+- SQL
+- MySQL / PostgreSQL
+- JDBC
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+- Testes automatizados
+- Docker
